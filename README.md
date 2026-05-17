@@ -79,7 +79,7 @@ This downloads the model locally.
 Clone repository:
 
 ```bash
-git clone <YOUR_REPO_URL>
+git clone git@github.com:Antriksh1234/Basic-RAG-App.git
 cd Basic-RAG-App
 ```
 
